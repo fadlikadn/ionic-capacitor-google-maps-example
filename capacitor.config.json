@@ -1,0 +1,6 @@
+{
+  "appId": "com.fadlikadn.googlemaps",
+  "appName": "ionic-google-maps-example",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
